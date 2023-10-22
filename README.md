@@ -1,2 +1,2 @@
 Prosty program wyświetlające informacje o użytkowniku
-![04](https://github.com/Shirote/podyplomowe/assets/148681557/46b6d6ad-0525-476c-87f3-2e8df6f4a3bc)
+![python-logo-png-open-2000](https://github.com/Shirote/podyplomowe/assets/148681557/e0d12323-41ef-4e1f-9f58-0bd91be6d0fb)
